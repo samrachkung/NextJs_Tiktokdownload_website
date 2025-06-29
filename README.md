@@ -4,7 +4,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/next-tiktok-download-seo.git
+    git clone https://github.com/samrachkung/NextJs_Tiktokdownload_website.git
     cd next-tiktok-download-seo
     ```
 2. Install dependencies:
